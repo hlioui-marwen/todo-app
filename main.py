@@ -3,6 +3,7 @@ import functions
 import time
 
 now = time.strftime("%b %d, %Y %H:%M:%S")
+print("the time below:")
 print("It is", now)
 prompt = "Type add, show, complete, edit or exit: "
 
