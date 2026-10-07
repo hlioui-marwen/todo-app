@@ -2,7 +2,5 @@ clean the house
 Fix the drower
 Buy a camer
 make soupe
-Make pizza
-Python
-todo addedd
-New list
+Python 2.0
+aaaaaaaaaaa
